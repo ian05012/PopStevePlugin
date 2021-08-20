@@ -1,0 +1,12 @@
+name: PopSteve
+version: ${project.version}
+main: io.github.tinyyana.popsteve.PluginMain
+api-version: 1.17
+prefix: PopSteve
+authors: [ YanaTW, XiaoDong ]
+description: Pop Steve plugin.
+website: https://github.com/TinyYana
+commands:
+  popsteve:
+    description: Open the pop steve menu.
+    usage: /<command>
